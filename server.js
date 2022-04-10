@@ -1,6 +1,6 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-const router = jsonServer.router(require('./sneakers.js')());
+const router = jsonServer.router(require('./sneakerdb.js')());
 // const pumaRouter =jsonServer.router('pumadb.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
