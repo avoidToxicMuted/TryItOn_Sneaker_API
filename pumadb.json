@@ -1,0 +1,44 @@
+{
+    "puma": [
+        {
+            "id" : 0,
+            "sneakername" : "Court Rider",
+            "description" : "Basketball shoes are forever pushing the culture of sport and streetstyle forward. And these shoes continue that tradition. But it's not all style with these shoes: they provi...",
+            "price" : "RM 279",
+            "imageurl" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/195634/03/sv01/fnd/SEA/fmt/png/Court-Rider-I-Basketball-Shoes",
+            "rating" : "3.75",
+            "size" : "UK6 ~ UK13",
+            "color" : "128,128,128"
+        },
+        {
+            "id" : 1,
+            "sneakername" : "FUTURE 4.2 IT Men",
+            "description" : "Power up your game with the FUTURE 4.2, specifically designed with a non-marking, low-profile rubber outsole for all your indoor training needs. The lightweight construction, ...",
+            "price" : "RM 135",
+            "imageurl" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/106497/01/sv01/fnd/SEA/fmt/png/FUTURE-4.2-IT-Men's-Football-Boots",
+            "rating" : "4.1",
+            "size" : "UK6.5 ~ UK9",
+            "color" : "0,78,255"
+        },
+        {
+            "id" : 2,
+            "sneakername" : "Wild Rider Layers",
+            "description" : "Wild Rider is bringing a whole new dimension to the PUMA Rider family. Its design features fresh layers of material and a raw, edgy look. Inspired by the movement and motion o...",
+            "price" : "RM 359",
+            "imageurl" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/380697/02/sv01/fnd/SEA/fmt/png/Wild-Rider-Layers-Sneakers",
+            "rating" : "4.5",
+            "size" : "UK6 ~ UK11",
+            "color" : "13, 152, 186"
+        },
+        {
+            "id" : 3,
+            "sneakername" : "Scuderia Ferrari R-Cat",
+            "description" : "Step out in style with a pair of shoes inspired by car elements and embracing PUMA's motorsport DNA. With their iconic front wings on the lateral side and their genuine motors...",
+            "price" : "RM 209",
+            "imageurl" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/306865/01/sv01/fnd/SEA/fmt/png/Scuderia-Ferrari-R-Cat-Machina-Motorsport-Shoes",
+            "rating" : "3.5",
+            "size" : "UK6 ~ UK9",
+            "color" : "169,169,169"
+        }
+    ]
+}
