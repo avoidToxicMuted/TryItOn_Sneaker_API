@@ -1,5 +1,4 @@
-{
-    "puma": [
+[
         {
             "id" : 0,
             "sneakername" : "Court Rider",
@@ -40,5 +39,4 @@
             "size" : "UK6 ~ UK9",
             "color" : "169,169,169"
         }
-    ]
-}
+]

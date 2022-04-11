@@ -1,5 +1,4 @@
-{
-    "nikes": [
+[
         {
             "id" : 0,
             "sneakername" : "Nike Air Force 1",
@@ -40,8 +39,7 @@
             "size" : "UK6 ~ UK14",
             "color" : "58,49,36"
         }
-    ]
-}
+]
 
 
 
