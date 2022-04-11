@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 0,
+        "sneakername" : "Bouncing sneaker",
+        "description" : "Sneaker in air mesh and suede goatskin.Light sole with contrasting design for a dynamic and modern look. \n\nMade in Italy",
+        "price" : "RM 3,600",
+        "imageurl" : "https://assets.hermes.com/is/image/hermesproduct/bouncing-sneaker--221897ZHMB-worn-1-0-0-2200-2200_b.jpg",
+        "rating" : "4.9",
+        "size" : "EU41 ~ EU44",
+        "color" : "214,214,208"
+    },
+    {
+        "id" : 1,
+        "sneakername" : "Quicker sneaker",
+        "description" : "Sneaker in calfskin with \"Peinture Fraiche\" print and iconic \"H\" detail \n\n Made in Italy",
+        "price" : "RM 4,250",
+        "imageurl" : "https://assets.hermes.com/is/image/hermesproduct/quicker-sneaker--212203Z%2090-worn-1-0-0-2200-2200_b.jpg",
+        "rating" : "5.0",
+        "size" : "EU37",
+        "color" : "200,98,69"
+    },
+    {
+        "id" : 2,
+        "sneakername" : "Boomerang sneaker",
+        "description" : "Minimalist sneaker in technical mesh, Epsom calfskin and suede goatskin with iconic orange sole. A modern and trendy look. \n\n Made in Italy",
+        "price" : "RM 3,800",
+        "imageurl" : "https://assets.hermes.com/is/image/hermesproduct/boomerang-sneaker--221917ZH90-worn-1-0-0-2200-2200_b.jpg",
+        "rating" : "0",
+        "size" : "EU43 ~ EU44",
+        "color" : "192, 192, 183"
+    },
+    {
+        "id" : 3,
+        "sneakername" : "Day sneaker",
+        "description" : "Sneaker in H canvas and calfskin with functional palladium plated Kelly buckle. For a modern urban look. \n\n Made in Italy",
+        "price" : "RM 5,000",
+        "imageurl" : "https://assets.hermes.com/is/image/hermesproduct/day-sneaker--221886ZH78-worn-1-0-0-2200-2200_b.jpg",
+        "rating" : "3.5",
+        "size" : "EU43",
+        "color" : "63,63,63"
+    }
+]

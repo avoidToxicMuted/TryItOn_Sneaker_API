@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 0,
+        "sneakername" : "NMD_V3 SHOES",
+        "description" : "The pinnacle expression of tactical tech. The adidas NMD_V3 shoes aren't here to mess around. A strong vibe to match yours. Plush BOOST cushioning means there's no stopping the good vibes — endless energy return keeps you fired up with comfort when days blur into the night. Playing with transparency, a see-through heel clip and the speckled TPU midsole round out the progressive exploration.",
+        "price" : "RM 749",
+        "imageurl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/43371e219fad49779093adf9001394c6_9366/NMD_V3_Shoes_Black_GX3378_06_standard.jpg",
+        "rating" : "4.9",
+        "size" : "UK3.5 ~ UK12.5",
+        "color" : "0,0,0"
+    },
+    {
+        "id" : 1,
+        "sneakername" : "STAN SMITH SHOES",
+        "description" : "From the moment they walked onto the tennis courts more than 50 years ago, the adidas Stan Smith shoes have always been about the future. At first they were focused on how to play better, but with this version, they're focused on how to be better. For the future. Which is why they're made with recycled content as well as a soft faux leather upper.",
+        "price" : "RM 429",
+        "imageurl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0b5c59d6611c4733b5efae5800bd3dff_9366/Stan_Smith_Shoes_White_GY7318_06_standard.jpg",
+        "rating" : "4.7",
+        "size" : "UK3 ~ UK13.5",
+        "color" : "210,210,210"
+    },
+    {
+        "id" : 2,
+        "sneakername" : "FORUM LOW SHOES",
+        "description" : "Bring the colourful energy of 2000s-era Harajuku to today. Made in collaboration with Tokyo-based boutique Atmos, these adidas Forum Low Shoes fuse a throwback basketball silhouette with bold details inspired by one of Japan's most fashionable districts. The sleek leather upper and X-ankle strap keep your look rooted in court heritage.",
+        "price" : "RM 429",
+        "imageurl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b1157f3aa597447e9acdadec00c6c2d6_9366/Forum_Low_Shoes_Silver_GV9224_06_standard.jpg",
+        "rating" : "4.2",
+        "size" : "UK6 ~ UK11.5",
+        "color" : "188, 192, 193"
+    },
+    {
+        "id" : 3,
+        "sneakername" : "SUPERSTAR SHOES",
+        "description" : "Shine bright in these adidas Superstar Shoes. Even when the skies are grey or you're dancing into the night, they have reflective panels that catch the light, drawing attention to your authentic adidas style. And with all the essential heritage details, from the smooth leather upper and shell-toe cap to the rubber outsole, you'll definitely want to show them off. Lace in and get out there.",
+        "price" : "RM 399",
+        "imageurl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d8b5788138734aed8e13ae6a01076732_9366/Superstar_Shoes_White_GZ1604_06_standard.jpg",
+        "rating" : "3.5",
+        "size" : "UK4 ~ UK12",
+        "color" : "34,63,62"
+    }
+]
