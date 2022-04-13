@@ -1,6 +1,6 @@
 [
         {
-            "id" : 0,
+            "sneakerid" : "puma0",
             "sneakername" : "Court Rider",
             "description" : "Basketball shoes are forever pushing the culture of sport and streetstyle forward. And these shoes continue that tradition. But it's not all style with these shoes: they provi...",
             "price" : "RM 279",
@@ -10,7 +10,7 @@
             "color" : "128,128,128"
         },
         {
-            "id" : 1,
+            "sneakerid" : "puma1",
             "sneakername" : "FUTURE 4.2 IT",
             "description" : "Power up your game with the FUTURE 4.2, specifically designed with a non-marking, low-profile rubber outsole for all your indoor training needs. The lightweight construction, ...",
             "price" : "RM 135",
@@ -20,7 +20,7 @@
             "color" : "0,78,255"
         },
         {
-            "id" : 2,
+            "sneakerid" : "puma2",
             "sneakername" : "Wild Rider Layers",
             "description" : "Wild Rider is bringing a whole new dimension to the PUMA Rider family. Its design features fresh layers of material and a raw, edgy look. Inspired by the movement and motion o...",
             "price" : "RM 359",
@@ -30,7 +30,7 @@
             "color" : "13, 152, 186"
         },
         {
-            "id" : 3,
+            "sneakerid" : "puma3",
             "sneakername" : "Scuderia Ferrari",
             "description" : "Step out in style with a pair of shoes inspired by car elements and embracing PUMA's motorsport DNA. With their iconic front wings on the lateral side and their genuine motors...",
             "price" : "RM 209",

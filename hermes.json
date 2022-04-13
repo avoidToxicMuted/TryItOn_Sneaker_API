@@ -1,6 +1,6 @@
 [
     {
-        "id" : 0,
+        "sneakerid" : "hermes0",
         "sneakername" : "Bouncing sneaker",
         "description" : "Sneaker in air mesh and suede goatskin.Light sole with contrasting design for a dynamic and modern look. \n\nMade in Italy",
         "price" : "RM 3,600",
@@ -10,7 +10,7 @@
         "color" : "214,214,208"
     },
     {
-        "id" : 1,
+        "sneakerid" : "hermes1",
         "sneakername" : "Quicker sneaker",
         "description" : "Sneaker in calfskin with \"Peinture Fraiche\" print and iconic \"H\" detail \n\n Made in Italy",
         "price" : "RM 4,250",
@@ -20,7 +20,7 @@
         "color" : "200,98,69"
     },
     {
-        "id" : 2,
+        "sneakerid" : "hermes2",
         "sneakername" : "Boomerang sneaker",
         "description" : "Minimalist sneaker in technical mesh, Epsom calfskin and suede goatskin with iconic orange sole. A modern and trendy look. \n\n Made in Italy",
         "price" : "RM 3,800",
@@ -30,7 +30,7 @@
         "color" : "192, 192, 183"
     },
     {
-        "id" : 3,
+        "sneakerid" : "hermes3",
         "sneakername" : "Day sneaker",
         "description" : "Sneaker in H canvas and calfskin with functional palladium plated Kelly buckle. For a modern urban look. \n\n Made in Italy",
         "price" : "RM 5,000",

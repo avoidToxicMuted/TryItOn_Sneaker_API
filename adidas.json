@@ -1,6 +1,6 @@
 [
     {
-        "id" : 0,
+        "sneakerid" : "adidas0",
         "sneakername" : "NMD_V3 Shoes",
         "description" : "The pinnacle expression of tactical tech. The adidas NMD_V3 shoes aren't here to mess around. A strong vibe to match yours. Plush BOOST cushioning means there's no stopping the good vibes — endless energy return keeps you fired up with comfort when days blur into the night. Playing with transparency, a see-through heel clip and the speckled TPU midsole round out the progressive exploration.",
         "price" : "RM 749",
@@ -10,7 +10,7 @@
         "color" : "0,0,0"
     },
     {
-        "id" : 1,
+        "sneakerid" : "adidas1",
         "sneakername" : "Stan Smith Shoes",
         "description" : "From the moment they walked onto the tennis courts more than 50 years ago, the adidas Stan Smith shoes have always been about the future. At first they were focused on how to play better, but with this version, they're focused on how to be better. For the future. Which is why they're made with recycled content as well as a soft faux leather upper.",
         "price" : "RM 429",
@@ -20,7 +20,7 @@
         "color" : "210,210,210"
     },
     {
-        "id" : 2,
+        "sneakerid" : "adidas2",
         "sneakername" : "Forum Low Shoes",
         "description" : "Bring the colourful energy of 2000s-era Harajuku to today. Made in collaboration with Tokyo-based boutique Atmos, these adidas Forum Low Shoes fuse a throwback basketball silhouette with bold details inspired by one of Japan's most fashionable districts. The sleek leather upper and X-ankle strap keep your look rooted in court heritage.",
         "price" : "RM 429",
@@ -30,7 +30,7 @@
         "color" : "188, 192, 193"
     },
     {
-        "id" : 3,
+        "sneakerid" : "adidas3",
         "sneakername" : "Superstar Shoes",
         "description" : "Shine bright in these adidas Superstar Shoes. Even when the skies are grey or you're dancing into the night, they have reflective panels that catch the light, drawing attention to your authentic adidas style. And with all the essential heritage details, from the smooth leather upper and shell-toe cap to the rubber outsole, you'll definitely want to show them off. Lace in and get out there.",
         "price" : "RM 399",

@@ -1,6 +1,6 @@
 [
         {
-            "id" : 0,
+            "sneakerid" : "nike0",
             "sneakername" : "Nike Air Force 1",
             "description" : "The radiance lives on in the Nike Air Force 1 '07, the b-ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
             "price" : "RM 369",
@@ -10,7 +10,7 @@
             "color" : "255,255,255"
         },
         {
-            "id" : 1,
+            "sneakerid" : "nike1",
             "sneakername" : "Nike Air Force",
             "description" : "The Nike Air Force 1 Shadow puts a playful twist on a classic b-ball design.Using a layered approach, doubling the branding and exaggerating the midsole, it highlights AF-1 DNA with a bold, new look.",
             "price" : "RM 359",
@@ -20,7 +20,7 @@
             "color" : "255,255,0"
         },
         {
-            "id" : 2,
+            "sneakerid" : "nike2",
             "sneakername" : "Nike Tanjun",
             "description" : "Forget the hype. The Nike Tanjun brings you simplicity at its best. Made from at least 20% recycled content by weight, no detail is overlooked on this one. Lightweight. Airy. Comfortable. This shoe is all you need.",
             "price" : "RM 225",
@@ -30,7 +30,7 @@
             "color" : "0,0,0"
         },
         {
-            "id" : 3,
+            "sneakerid" : "nike3",
             "sneakername" : "Nike Metcon 7",
             "description" : "The Nike Metcon 7 is the gold standard for weight training—even tougher and more stable than previous versions.We've also added React foam that ups the comfort to keep you ready for high-intensity cardio.Plus, a tab locks down your laces so you can forget about them coming untied when you're focused on your next PR.",
             "price" : "RM 559",
