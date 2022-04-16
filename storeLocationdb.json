@@ -1,12 +1,14 @@
 [
     {
         "locationName" : "Nike Pavilion",
+        "storeLocationCity" : "Kuala Lumpur , Malaysia",
         "longitude" : 3.1494817777629858,
         "latitude" : 101.71247563775474,
         "imageUrl" : "https://lh5.googleusercontent.com/p/AF1QipN29XB8iX7X49R5Qg9eMjnwDmQyQ6Z-vTzbw6A=w426-h240-k-no"
     },
     {
         "locationName" : "Nike Mid Valley",
+        "storeLocationCity" : "Kuala Lumpur , Malaysia",
         "longitude" : 3.1179150568333536,
         "latitude" : 101.6774204261135,
         "imageUrl" : "https://lh5.googleusercontent.com/p/AF1QipPB_LhVrjLfM7oPrAXIcX_TwoIOprvCVn7R_Qxs=w408-h544-k-no"
