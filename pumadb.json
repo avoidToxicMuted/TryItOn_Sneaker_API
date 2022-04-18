@@ -7,7 +7,9 @@
             "imageurl" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/195634/03/sv01/fnd/SEA/fmt/png/Court-Rider-I-Basketball-Shoes",
             "rating" : "3.75",
             "size" : "UK6 ~ UK13",
-            "color" : "128,128,128"
+            "color" : "128,128,128",
+            "arAsset" : "art.scnassets/adidas2.scn",
+            "arDirectory" : "adidas"
         },
         {
             "sneakerid" : "puma1",
@@ -17,7 +19,9 @@
             "imageurl" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/106497/01/sv01/fnd/SEA/fmt/png/FUTURE-4.2-IT-Men's-Football-Boots",
             "rating" : "4.1",
             "size" : "UK6.5 ~ UK9",
-            "color" : "0,78,255"
+            "color" : "0,78,255",
+            "arAsset" : "art.scnassets/adidas2.scn",
+            "arDirectory" : "adidas"
         },
         {
             "sneakerid" : "puma2",
@@ -27,7 +31,9 @@
             "imageurl" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/380697/02/sv01/fnd/SEA/fmt/png/Wild-Rider-Layers-Sneakers",
             "rating" : "4.5",
             "size" : "UK6 ~ UK11",
-            "color" : "13, 152, 186"
+            "color" : "13, 152, 186",
+            "arAsset" : "art.scnassets/adidas2.scn",
+            "arDirectory" : "adidas"
         },
         {
             "sneakerid" : "puma3",
@@ -37,6 +43,8 @@
             "imageurl" : "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/306865/01/sv01/fnd/SEA/fmt/png/Scuderia-Ferrari-R-Cat-Machina-Motorsport-Shoes",
             "rating" : "3.5",
             "size" : "UK6 ~ UK9",
-            "color" : "169,169,169"
+            "color" : "169,169,169",
+            "arAsset" : "art.scnassets/adidas2.scn",
+             "arDirectory" : "adidas"
         }
 ]

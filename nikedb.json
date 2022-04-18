@@ -7,7 +7,9 @@
             "imageurl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoe-WrLlWX.png",
             "rating" : "4.7",
             "size" : "UK5.5 ~ UK17",
-            "color" : "255,255,255"
+            "color" : "255,255,255",
+            "arAsset" : "art.scnassets/nike1.scn",
+            "arDirectory" : "nike"
         },
         {
             "sneakerid" : "nike1",
@@ -17,7 +19,9 @@
             "imageurl" : "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4621066a-6e19-49e5-a2d7-4e7e5eade298/air-force-1-shadow-shoes-mN8Glx.png",
             "rating" : "4.8",
             "size" : "UK4.5 ~ UK9",
-            "color" : "255,255,0"
+            "color" : "255,255,0",
+            "arAsset" : "art.scnassets/nike1.scn",
+            "arDirectory" : "nike"
         },
         {
             "sneakerid" : "nike2",
@@ -27,7 +31,9 @@
             "imageurl" : "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b129d607-1ee2-453d-bff7-ca18d3d399c1/tanjun-shoes-KbdlvQ.png",
             "rating" : "5.0",
             "size" : "UK6.5 ~ UK10",
-            "color" : "0,0,0"
+            "color" : "0,0,0",
+            "arAsset" : "art.scnassets/nike1.scn",
+            "arDirectory" : "nike"
         },
         {
             "sneakerid" : "nike3",
@@ -37,7 +43,9 @@
             "imageurl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/033783c5-accf-4ec1-b554-0fb198833915/metcon-7-training-shoes-MVtzlX.png",
             "rating" : "4.5",
             "size" : "UK6 ~ UK14",
-            "color" : "58,49,36"
+            "color" : "58,49,36",
+            "arAsset" : "art.scnassets/nike1.scn",
+            "arDirectory" : "nike"
         }
 ]
 

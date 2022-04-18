@@ -7,7 +7,9 @@
         "imageurl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/43371e219fad49779093adf9001394c6_9366/NMD_V3_Shoes_Black_GX3378_06_standard.jpg",
         "rating" : "4.9",
         "size" : "UK3.5 ~ UK12.5",
-        "color" : "0,0,0"
+        "color" : "0,0,0",
+        "arAsset" : "art.scnassets/adidas2.scn",
+        "arDirectory" : "adidas"
     },
     {
         "sneakerid" : "adidas1",
@@ -17,7 +19,9 @@
         "imageurl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0b5c59d6611c4733b5efae5800bd3dff_9366/Stan_Smith_Shoes_White_GY7318_06_standard.jpg",
         "rating" : "4.7",
         "size" : "UK3 ~ UK13.5",
-        "color" : "210,210,210"
+        "color" : "210,210,210",
+        "arAsset" : "art.scnassets/adidas1.scn",
+        "arDirectory" : "adidas"
     },
     {
         "sneakerid" : "adidas2",
@@ -27,7 +31,9 @@
         "imageurl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b1157f3aa597447e9acdadec00c6c2d6_9366/Forum_Low_Shoes_Silver_GV9224_06_standard.jpg",
         "rating" : "4.2",
         "size" : "UK6 ~ UK11.5",
-        "color" : "188, 192, 193"
+        "color" : "188, 192, 193",
+        "arAsset" : "art.scnassets/adidas2.scn",
+        "arDirectory" : "adidas"
     },
     {
         "sneakerid" : "adidas3",
@@ -37,6 +43,8 @@
         "imageurl" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d8b5788138734aed8e13ae6a01076732_9366/Superstar_Shoes_White_GZ1604_06_standard.jpg",
         "rating" : "3.5",
         "size" : "UK4 ~ UK12",
-        "color" : "34,63,62"
+        "color" : "34,63,62",
+        "arAsset" : "art.scnassets/adidas1.scn",
+        "arDirectory" : "adidas"
     }
 ]

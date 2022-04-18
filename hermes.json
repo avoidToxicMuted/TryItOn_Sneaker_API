@@ -7,7 +7,9 @@
         "imageurl" : "https://assets.hermes.com/is/image/hermesproduct/bouncing-sneaker--221897ZHMB-worn-1-0-0-2200-2200_b.jpg",
         "rating" : "4.9",
         "size" : "EU41 ~ EU44",
-        "color" : "214,214,208"
+        "color" : "214,214,208",
+        "arAsset" : "art.scnassets/adidas2.scn",
+        "arDirectory" : "adidas"
     },
     {
         "sneakerid" : "hermes1",
@@ -17,7 +19,9 @@
         "imageurl" : "https://assets.hermes.com/is/image/hermesproduct/quicker-sneaker--212203Z%2090-worn-1-0-0-2200-2200_b.jpg",
         "rating" : "5.0",
         "size" : "EU37",
-        "color" : "200,98,69"
+        "color" : "200,98,69",
+        "arAsset" : "art.scnassets/adidas2.scn",
+        "arDirectory" : "adidas"
     },
     {
         "sneakerid" : "hermes2",
@@ -27,7 +31,9 @@
         "imageurl" : "https://assets.hermes.com/is/image/hermesproduct/boomerang-sneaker--221917ZH90-worn-1-0-0-2200-2200_b.jpg",
         "rating" : "0",
         "size" : "EU43 ~ EU44",
-        "color" : "192, 192, 183"
+        "color" : "192, 192, 183",
+        "arAsset" : "art.scnassets/adidas2.scn",
+        "arDirectory" : "adidas"
     },
     {
         "sneakerid" : "hermes3",
@@ -37,6 +43,8 @@
         "imageurl" : "https://assets.hermes.com/is/image/hermesproduct/day-sneaker--221886ZH78-worn-1-0-0-2200-2200_b.jpg",
         "rating" : "3.5",
         "size" : "EU43",
-        "color" : "63,63,63"
+        "color" : "63,63,63",
+        "arAsset" : "art.scnassets/adidas2.scn",
+        "arDirectory" : "adidas"
     }
 ]
